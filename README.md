@@ -1,2 +1,2 @@
-# Data-Analysis-readme.md
+# Readme.md
 "Comprehensive data analysis repository with scripts, visualizations, and insights."
